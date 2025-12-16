@@ -7,6 +7,7 @@ This documentation describes the EDP plugin, a EDC (Eclipse Dataspace Component)
 ## System Architecture Overview
 
 ![System Architecture](resources/docs/overview.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWeltraumschaf%2FLP-EDC-Plugin.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FWeltraumschaf%2FLP-EDC-Plugin?ref=badge_shield)
 
 The above diagram illustrates the overall system architecture showing how the Data Holder connects with EDPS and Daseen services through EDC contracts and data flows.
 
@@ -424,3 +425,6 @@ These scripts automate the manual steps described in the following sections and 
 ## ToDos
 
 - Replace daseen authentication with proper auth mechanism
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWeltraumschaf%2FLP-EDC-Plugin.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FWeltraumschaf%2FLP-EDC-Plugin?ref=badge_large)
